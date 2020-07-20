@@ -26,4 +26,11 @@ If you've read this far, do connect with me on:
 
 ![image](https://img.shields.io/twitter/follow/SeemaSaharan5?style=social)
 
+## Read my blogs here
+
+https://dev.to/seema1711  
+
+https://medium.com/@SeemaSaharan
+
+
 [![Seema Saharan's github stats](https://github-readme-stats.vercel.app/api?username=seema1711)](https://github.com/seema1711/github-readme-stats)
