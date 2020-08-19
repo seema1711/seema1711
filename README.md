@@ -33,6 +33,7 @@ https://dev.to/seema1711
 https://medium.com/@SeemaSaharan
 
 ## Looking for some awesome tutorials?
+![image](https://github.com/seema1711/seema1711/blob/master/BashWoman%20logo.png)
 https://www.youtube.com/channel/UCC99DrwSR_utFaF1qie-ktQ
 
 
