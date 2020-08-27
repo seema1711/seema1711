@@ -34,7 +34,7 @@ https://medium.com/@SeemaSaharan
 
 ## Looking for some awesome tutorials?
 ![image](https://github.com/seema1711/seema1711/blob/master/BashWoman%20logo.png)
-https://www.youtube.com/channel/UCC99DrwSR_utFaF1qie-ktQ
+https://www.youtube.com/c/BashWoman
 
 
 [![Seema Saharan's github stats](https://github-readme-stats.vercel.app/api?username=seema1711)](https://github.com/seema1711/github-readme-stats)
