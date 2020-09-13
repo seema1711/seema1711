@@ -47,6 +47,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coding made easy with {GitHub Codespaces}](https://dev.to/seema1711/coding-made-easy-with-github-codespaces-14ec)
+- [10 Ingredients of writing a "Good Technical Blog"](https://dev.to/seema1711/10-ingredients-of-writing-a-good-technical-blog-3o24)
+- [Making a Twitter bot with Python](https://dev.to/seema1711/making-a-twitter-bot-with-python-3ld7)
 <!-- BLOG-POST-LIST:END -->
 
 
