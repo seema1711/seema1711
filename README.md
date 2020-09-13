@@ -28,8 +28,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Ansible" width="26px" src="https://github.com/seema1711/seema1711/raw/master/download%20(1).png" />
 <img align="left" alt="Python" width="26px" src="https://github.com/seema1711/seema1711/raw/master/download.jpg" />
-<img align="left" alt="Python" width="26px" src="https://github.com/seema1711/seema1711/raw/master/download.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/seema1711/seema1711/raw/master/redhat.png" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/seema1711/seema1711/raw/master/download.png" />
+<img align="left" alt="RedHat" width="26px" src="https://github.com/seema1711/seema1711/raw/master/redhat.png" />
 
 <br />
 <br />
