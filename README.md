@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Mindset | Jobs and Colleges!!](https://www.youtube.com/watch?v=zhcMX2PE5xY)
 - [#3 Choose the right project | Let's prepare for "HACKTOBERFEST" | How to make a pull request?](https://www.youtube.com/watch?v=AI0gEvgPtAc)
 - [#2 Why and How to start contributing to Open Source | My journey in Open Source | Prerequisites.](https://www.youtube.com/watch?v=SL5KKdmvJ1U)
 - [#1 What is OPEN SOURCE? | Understand open-source with a different example.](https://www.youtube.com/watch?v=wN9v0z3No24)
 - [Common mistakes done by "ENGINEERING Students"!](https://www.youtube.com/watch?v=h69Zv0BeEmA)
-- [How to make your own Google Chrome Extension (easily)?](https://www.youtube.com/watch?v=h1mSrF2G3l4)
 <!-- YOUTUBE:END -->
 
 ---
