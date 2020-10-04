@@ -2,6 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SeemaSaharan5?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fseema1711&screen_name=SeemaSaharan5)
 
+<a href="http://youtube.com/BashWoman?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/views/AI0gEvgPtAc?label=YouTube&logo=YouTube&style=for-the-badge">
+  </a>
+
 ## I'm a Student, Mentor, Open Source Contributor, and Teacher!
 
 - 🔭 I’m currently working on a [Open Source Series on YouTube](https://www.youtube.com/watch?v=wN9v0z3No24&list=PLhrUS-gSH3xBg9HPUU3z7WcKAgyYRog8H)!
