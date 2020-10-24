@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [5 mistakes that you should avoid while learning PROGRAMMING](https://www.youtube.com/watch?v=rF3oylCKgH0)
 - [Unboxing with Bash Woman | How I got a swag from GitLab?](https://www.youtube.com/watch?v=YfMSstf9ZYQ)
 - [17 repositories for HACKTOBERFEST | Beginner to Advanced | All languages involved](https://www.youtube.com/watch?v=MHPKIBSgxAA)
 - [GitHub CLI 1.0 | Features, Installation, Basic Commands, Resources.](https://www.youtube.com/watch?v=XSUimtxQMMA)
 - [The Mindset | Jobs and Colleges!!](https://www.youtube.com/watch?v=zhcMX2PE5xY)
-- [#3 Choose the right project | Let's prepare for "HACKTOBERFEST" | How to make a pull request?](https://www.youtube.com/watch?v=AI0gEvgPtAc)
 <!-- YOUTUBE:END -->
 
 ---
