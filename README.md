@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Introduction to LINUX | Why to learn this?](https://www.youtube.com/watch?v=A8Xg_vKxuTI)
 - [How to make a MERGE REQUEST on GitLab?](https://www.youtube.com/watch?v=RcTo_kZ0OLA)
 - [5 mistakes that you should avoid while learning PROGRAMMING](https://www.youtube.com/watch?v=rF3oylCKgH0)
 - [Unboxing with Bash Woman | How I got a swag from GitLab?](https://www.youtube.com/watch?v=YfMSstf9ZYQ)
 - [17 repositories for HACKTOBERFEST | Beginner to Advanced | All languages involved](https://www.youtube.com/watch?v=MHPKIBSgxAA)
-- [GitHub CLI 1.0 | Features, Installation, Basic Commands, Resources.](https://www.youtube.com/watch?v=XSUimtxQMMA)
 <!-- YOUTUBE:END -->
 
 ---
