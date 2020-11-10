@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Distributions in LINUX | Various flavors of LINUX](https://www.youtube.com/watch?v=XQ7F5NFusOQ)
 - [WOMEN IN TECH | A journey of SELF LEARNING and following your PASSION.](https://www.youtube.com/watch?v=JJV1Yzc1NCw)
 - [Introduction to LINUX | Why to learn this?](https://www.youtube.com/watch?v=A8Xg_vKxuTI)
 - [How to make a MERGE REQUEST on GitLab?](https://www.youtube.com/watch?v=RcTo_kZ0OLA)
 - [5 mistakes that you should avoid while learning PROGRAMMING](https://www.youtube.com/watch?v=rF3oylCKgH0)
-- [Unboxing with Bash Woman | How I got a swag from GitLab?](https://www.youtube.com/watch?v=YfMSstf9ZYQ)
 <!-- YOUTUBE:END -->
 
 ---
