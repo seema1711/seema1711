@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Basic LINUX commands every user must know](https://www.youtube.com/watch?v=q8aYfA8nLYU)
 - [Installation of LINUX | Fedora 33 installation | Virtualization](https://www.youtube.com/watch?v=n98SkXjsbdY)
 - [WOMEN IN TECH | A journey of SELF LEARNING and following your PASSION.](https://www.youtube.com/watch?v=JJV1Yzc1NCw)
 - [Distributions in LINUX | Various flavors of LINUX](https://www.youtube.com/watch?v=XQ7F5NFusOQ)
 - [Introduction to LINUX | Why to learn this?](https://www.youtube.com/watch?v=A8Xg_vKxuTI)
-- [How to make a MERGE REQUEST on GitLab?](https://www.youtube.com/watch?v=RcTo_kZ0OLA)
 <!-- YOUTUBE:END -->
 
 ---
