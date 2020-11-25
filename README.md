@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [11 Resources for learning Data Structures and Algorithms | Paid and Free](https://www.youtube.com/watch?v=ZewAnLMkT6Q)
 - [Everything you need to know about MLH Fellowship, Hackathons, and Open Source | Harsh Bardhan Mishra](https://www.youtube.com/watch?v=xs9g6JQcc68)
 - [LINUX commands gone wrong!!!!! 😥](https://www.youtube.com/watch?v=ZnQXDdm1Y9s)
 - [LINUX COMMANDS for beginners | Part 2](https://www.youtube.com/watch?v=1R_fUmkLYU4)
 - [Basic LINUX commands every user must know](https://www.youtube.com/watch?v=q8aYfA8nLYU)
-- [Installation of LINUX | Fedora 33 installation | Virtualization](https://www.youtube.com/watch?v=n98SkXjsbdY)
 <!-- YOUTUBE:END -->
 
 ---
