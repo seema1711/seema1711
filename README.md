@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [16 Resume tips for students/freshers | Sequence for your resume/CV](https://www.youtube.com/watch?v=E9U752Nbjuk)
 - [Vim editor tutorial for beginners | What, Why, and How?](https://www.youtube.com/watch?v=KkwFnQDxehg)
 - [Package Management with YUM and DNF in Fedora 33 | DNF vs YUM](https://www.youtube.com/watch?v=ryssZx8e0Gc)
 - [11 Resources for learning Data Structures and Algorithms | Paid and Free](https://www.youtube.com/watch?v=ZewAnLMkT6Q)
 - [Everything you need to know about MLH Fellowship, Hackathons, and Open Source | Harsh Bardhan Mishra](https://www.youtube.com/watch?v=xs9g6JQcc68)
-- [LINUX commands gone wrong!!!!! 😥](https://www.youtube.com/watch?v=ZnQXDdm1Y9s)
 <!-- YOUTUBE:END -->
 
 ---
