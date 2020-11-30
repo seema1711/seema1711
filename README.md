@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Play music and movies in Linux OS | RPM Fusion](https://www.youtube.com/watch?v=wohcv6-XMXk)
 - [10 Ingredients of writing a technical blog! 📝](https://www.youtube.com/watch?v=c83ByjwX67A)
 - [16 Resume tips for students/freshers | Sequence for your resume/CV](https://www.youtube.com/watch?v=E9U752Nbjuk)
 - [Vim editor tutorial for beginners | What, Why, and How?](https://www.youtube.com/watch?v=KkwFnQDxehg)
 - [Package Management with YUM and DNF in Fedora 33 | DNF vs YUM](https://www.youtube.com/watch?v=ryssZx8e0Gc)
-- [11 Resources for learning Data Structures and Algorithms | Paid and Free](https://www.youtube.com/watch?v=ZewAnLMkT6Q)
 <!-- YOUTUBE:END -->
 
 ---
