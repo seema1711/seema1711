@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [MLog - EP 2 | 🎥 How you can start your YouTube channel?](https://www.youtube.com/watch?v=zbddk-RaQVE)
 - [ML : Really the FUTURE of Engineers? | Vedant Khairnar](https://www.youtube.com/watch?v=PuP8lnqLtP0)
 - [11 Resources to learn LINUX 💻 | Free | Beginner to Advanced](https://www.youtube.com/watch?v=1BfN17yhraw)
 - [How Hackathons, Communities & Public Speaking can help you? | Siddharth Dayalwal](https://www.youtube.com/watch?v=dO0zcwa9zKM)
 - [Install Kali LINUX in your Windows 10 | Latest version 2020.4](https://www.youtube.com/watch?v=zm8zm1CHFHY)
-- [MLog - EP 1 | Seema Saharan | Memory Log](https://www.youtube.com/watch?v=57BgK3V-L80)
 <!-- YOUTUBE:END -->
 
 ---
