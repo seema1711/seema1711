@@ -57,11 +57,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to complete your "Pending Projects"?](https://dev.to/seema1711/how-to-complete-your-pending-projects-aj6)
 - [Authorization, Authentication of apps and APIs made easy with Auth0](https://dev.to/seema1711/authorization-authentication-of-apps-and-apis-made-easy-with-auth0-1h9k)
 - [My first HacktoberFest | Learnings, and Sharing](https://dev.to/seema1711/my-first-hacktoberfest-learnings-and-sharing-408i)
 - [Coding made easy with {GitHub Codespaces}](https://dev.to/seema1711/coding-made-easy-with-github-codespaces-14ec)
 - [10 Ingredients of writing a "Good Technical Blog"](https://dev.to/seema1711/10-ingredients-of-writing-a-good-technical-blog-3o24)
-- [Making a Twitter bot with Python](https://dev.to/seema1711/making-a-twitter-bot-with-python-3ld7)
 <!-- BLOG-POST-LIST:END -->
 
 
