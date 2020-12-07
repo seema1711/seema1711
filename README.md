@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [StackOverflow, we love you! #Shorts](https://www.youtube.com/watch?v=KoqUimjbtG8)
 - [🔴 LIVE Stream until we reach 1008 SUBSCRIBERS!! | AMA session 😁](https://www.youtube.com/watch?v=yCEwIgNYLyQ)
 - [MLog - EP 2 | 🎥 How you can start your YouTube channel?](https://www.youtube.com/watch?v=zbddk-RaQVE)
 - [11 Resources to learn LINUX 💻 | Free | Beginner to Advanced](https://www.youtube.com/watch?v=1BfN17yhraw)
 - [How Hackathons, Communities & Public Speaking can help you? | Siddharth Dayalwal](https://www.youtube.com/watch?v=dO0zcwa9zKM)
-- [Install Kali LINUX in your Windows 10 | Latest version 2020.4](https://www.youtube.com/watch?v=zm8zm1CHFHY)
 <!-- YOUTUBE:END -->
 
 ---
