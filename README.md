@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [No one is Useless in this World who lightens the burdens of Others | Akash Bhandwalkar](https://www.youtube.com/watch?v=T8v3rvAAUyU)
 - [MLog EP4 | Real talent is out there, we need People who SUPPORT that | Reality Check Part 2](https://www.youtube.com/watch?v=QoDRIvd8W_Q)
 - [MLog EP3 | This Broke my Heart 💔 | Speaking the Truth- Part 1](https://www.youtube.com/watch?v=C5NOncCa-AE)
 - [Make your terminal powerful, and beautiful! | Zsh | Powerlevel10k theme](https://www.youtube.com/watch?v=8Cz1dEnQbUM)
 - [Make a Web SERVER in LINUX easily | Web Server tutorial](https://www.youtube.com/watch?v=7TwRQwO1ges)
-- [ML : Really the FUTURE of Engineers? | Vedant Khairnar](https://www.youtube.com/watch?v=PuP8lnqLtP0)
 <!-- YOUTUBE:END -->
 
 ---
