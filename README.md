@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Data Mining and Scraping as a Power Tool | Apoorve Goyal](https://www.youtube.com/watch?v=eE9F9wZGqUA)
 - [Story of an Introvertuber | Francesco Ciulla](https://www.youtube.com/watch?v=9CMTvj9gNiw)
 - [Thank you 1000+ SUBSCRIBERS!](https://www.youtube.com/watch?v=cSK0xh4qAIs)
 - [No one is Useless in this World who lightens the burdens of Others | Akash Bhandwalkar](https://www.youtube.com/watch?v=T8v3rvAAUyU)
 - [MLog EP4 | Real talent is out there, we need People who SUPPORT that | Reality Check Part 2](https://www.youtube.com/watch?v=QoDRIvd8W_Q)
-- [MLog EP3 | This Broke my Heart 💔 | Speaking the Truth- Part 1](https://www.youtube.com/watch?v=C5NOncCa-AE)
 <!-- YOUTUBE:END -->
 
 ---
