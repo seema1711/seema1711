@@ -57,11 +57,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Productivity Hack for Developers/Students](https://dev.to/seema1711/productivity-hack-for-developers-students-3f06)
 - [25 Career Options if you don't like Coding](https://dev.to/seema1711/25-career-options-if-you-don-t-like-coding-2ag4)
 - [My Journey of "Getting out of my Comfort Zone"!](https://dev.to/seema1711/my-journey-of-getting-out-of-my-comfort-zone-1cgl)
 - [From a noob to an Open Source Contributor- My journey](https://dev.to/seema1711/from-a-noob-to-an-open-source-contributor-my-journey-5de2)
 - [Understanding Azure DevOps.](https://dev.to/seema1711/understanding-azure-devops-j2i)
-- [Taking pictures in Docker container!](https://dev.to/seema1711/taking-pictures-in-docker-container-4518)
 <!-- BLOG-POST-LIST:END -->
 
 
