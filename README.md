@@ -7,6 +7,8 @@
 <a href="http://youtube.com/BashWoman?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/views/AI0gEvgPtAc?label=YouTube&logo=YouTube&style=for-the-badge">
   </a>
+  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=seema1711" alt="seema1711"/> </p> 
 
 ## I'm a Student, Mentor, Open Source Contributor, and Teacher!
 
