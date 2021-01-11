@@ -56,6 +56,28 @@
 
 ---
 
+### 🗣 Latest Talks
+
+- [First talk of 2021: Invited by GirlScript Jalandhar](https://twitter.com/GirlScriptJal/status/1343471030413656064?s=20)
+- [Girls Tech Lead ft. Bash Woman & Carrycooldude](https://www.youtube.com/watch?v=UBbNQFUoA_M)
+- [E1: How Open Source can help you ?](https://youtu.be/kihitlW2DM4)
+- [Seema Saharan - Introverts can start their Youtube Channel if they really want to](https://youtu.be/XhANODKeoBY)
+- [HackGujarat - Introduction to Open Source](https://youtu.be/dZE0_1g0jNo)
+- [The World of Containers with - Podman, Buildah, Skopeo](https://youtu.be/t8nw7jU1gds)
+- [Hack4She: Open Source](https://www.linkedin.com/posts/hack4she_hackathon-hackathon2020-hack4she-activity-6730552906552004608-6zh3)
+
+---
+
+### 🚀 Achievements and Mentions
+
+- [My article got picked by Daily.Dev](https://t.co/sXOZK7trNe?amp=1)
+- Published on RedHat Enable Sysadmin Blog: [The world needs women who code](https://www.redhat.com/sysadmin/women-who-code)
+- [My Story published on Pyladies Chennai](https://medium.com/pyladies-chennai/seema-saharan-92f21257ccf6)
+- [My blog shared by Auth0 Ambassadors](https://twitter.com/Auth0Ambassador/status/1346178234811969536?s=20)
+- [I got the consolation prize for the Christmas Hackathon by Hashnode](https://townhall.hashnode.com/hashnode-christmas-hackathon-winners)
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -70,3 +92,4 @@
 ---
 
 [![Seema's github stats](https://github-readme-stats.vercel.app/api?username=seema1711)](https://github.com/seema1711/github-readme-stats)
+
