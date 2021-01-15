@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on a [Open Source Series on YouTube](https://www.youtube.com/watch?v=wN9v0z3No24&list=PLhrUS-gSH3xBg9HPUU3z7WcKAgyYRog8H)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen to music and watch movies/series.
 
 ### Connect with me:
