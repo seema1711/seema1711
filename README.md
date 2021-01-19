@@ -47,11 +47,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HacktoberFest 2020 Swags Unboxing + Special Announcement](https://www.youtube.com/watch?v=mRiwbrmgxQ0)
 - [Open Source == Opportunities | Eddie Jaoude](https://www.youtube.com/watch?v=iBx0EhV_MTw)
 - [Data Mining and Scraping as a Power Tool | Apoorve Goyal](https://www.youtube.com/watch?v=eE9F9wZGqUA)
 - [7 helpful tricks to use in Virtual Box](https://www.youtube.com/watch?v=uDdV688OZXc)
 - [Story of an Introvertuber | Francesco Ciulla](https://www.youtube.com/watch?v=9CMTvj9gNiw)
-- [Thank you 1000+ SUBSCRIBERS!](https://www.youtube.com/watch?v=cSK0xh4qAIs)
 <!-- YOUTUBE:END -->
 
 ---
