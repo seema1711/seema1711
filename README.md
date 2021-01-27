@@ -81,11 +81,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Auth0 Ambassador Swags | Join the mission 🚀👩🏻‍💻](https://dev.to/seema1711/auth0-ambassador-swags-join-the-mission-jld)
 - [Developer Diaries [video]](https://dev.to/seema1711/developer-diaries-video-3p4e)
 - [My First Experience with TypeScript](https://dev.to/seema1711/my-first-experience-with-typescript-41j3)
 - [Make your terminal powerful, and beautiful! | Zsh | Powerlevel10k theme](https://dev.to/seema1711/make-your-terminal-powerful-and-beautiful-zsh-powerlevel10k-theme-30f3)
 - [Make your first Instagram filter | #christmashackathon](https://dev.to/seema1711/make-your-first-instagram-filter-christmashackathon-6f4)
-- [Productivity Hack for Developers/Students](https://dev.to/seema1711/productivity-hack-for-developers-students-3f06)
 <!-- BLOG-POST-LIST:END -->
 
 
