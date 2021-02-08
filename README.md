@@ -47,11 +47,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Auth0 Ambassador Program 👩🏻‍🚀🚀| Roles, Responsibilities, Perks, Interview experience](https://www.youtube.com/watch?v=CcRAZuEcLMs)
 - [Auth0 Ambassador Swags | Join the mission 🚀👩🏻‍💻](https://www.youtube.com/watch?v=sgpjUFOiEYs)
 - [HacktoberFest 2020 Swags Unboxing + Special Announcement](https://www.youtube.com/watch?v=mRiwbrmgxQ0)
 - [Open Source == Opportunities | Eddie Jaoude](https://www.youtube.com/watch?v=iBx0EhV_MTw)
 - [Data Mining and Scraping as a Power Tool | Apoorve Goyal](https://www.youtube.com/watch?v=eE9F9wZGqUA)
-- [7 helpful tricks to use in Virtual Box](https://www.youtube.com/watch?v=uDdV688OZXc)
 <!-- YOUTUBE:END -->
 
 ---
