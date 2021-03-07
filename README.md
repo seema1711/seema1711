@@ -47,11 +47,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What Auth0 has sent me? | Auth0 End Year Gift 🎁](https://www.youtube.com/watch?v=FDbPAZas48Q)
 - [Local Hack Day by MLH | New opportunity from MLH 👩🏻‍💻👨🏻‍💻](https://www.youtube.com/watch?v=oa0tChpgl0s)
 - [Auth0 Ambassador Program 👩🏻‍🚀🚀| Roles, Responsibilities, Perks, Interview experience](https://www.youtube.com/watch?v=CcRAZuEcLMs)
 - [Auth0 Ambassador Swags | Join the mission 🚀👩🏻‍💻](https://www.youtube.com/watch?v=sgpjUFOiEYs)
 - [HacktoberFest 2020 Swags Unboxing + Special Announcement](https://www.youtube.com/watch?v=mRiwbrmgxQ0)
-- [Open Source == Opportunities | Eddie Jaoude](https://www.youtube.com/watch?v=iBx0EhV_MTw)
 <!-- YOUTUBE:END -->
 
 ---
