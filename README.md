@@ -48,10 +48,10 @@
 
 <!-- YOUTUBE:START -->
 - [Giving back to the Community - GSoC and Outreachy | Shraddha Agrawal](https://www.youtube.com/watch?v=40lKmniUKBg)
-- [Deploying an App in Kubernetes with Saiyam Pathak](https://www.youtube.com/watch?v=ridM0ABR0ys)
 - [Women: The Heart of Society | #IWD21 #ChooseToChallenge](https://www.youtube.com/watch?v=vqWs5-vF2To)
 - [What Auth0 has sent me? | Auth0 End Year Gift 🎁](https://www.youtube.com/watch?v=FDbPAZas48Q)
 - [Local Hack Day by MLH | New opportunity from MLH 👩🏻‍💻👨🏻‍💻](https://www.youtube.com/watch?v=oa0tChpgl0s)
+- [Auth0 Ambassador Program 👩🏻‍🚀🚀| Roles, Responsibilities, Perks, Interview experience](https://www.youtube.com/watch?v=CcRAZuEcLMs)
 <!-- YOUTUBE:END -->
 
 ---
