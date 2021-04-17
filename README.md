@@ -47,11 +47,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Junior Developers and Senior Developers  #Shorts](https://www.youtube.com/watch?v=NAXMbZPg_OM)
 - [Playing with Docker | Ashutosh Saxena - Cloud Engineer](https://www.youtube.com/watch?v=IC3xTlfbdW4)
 - [Deploying an App in Kubernetes with Saiyam Pathak](https://www.youtube.com/watch?v=ridM0ABR0ys)
 - [Giving back to the Community - GSoC and Outreachy | Shraddha Agrawal](https://www.youtube.com/watch?v=40lKmniUKBg)
 - [Women: The Heart of Society | #IWD21 #ChooseToChallenge](https://www.youtube.com/watch?v=vqWs5-vF2To)
-- [What Auth0 has sent me? | Auth0 End Year Gift 🎁](https://www.youtube.com/watch?v=FDbPAZas48Q)
 <!-- YOUTUBE:END -->
 
 ---
