@@ -1,7 +1,5 @@
 ### Hi there, I'm Seema Saharan - aka [Bash Woman](https://youtube.com/BashWoman) 👋
 
-![YouTube banner](https://github.com/seema1711/seema1711/blob/master/YouTube%20header.png) 
-
 ![twitter-follower](https://img.shields.io/twitter/follow/SeemaSaharan5?style=social) ![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCC99DrwSR_utFaF1qie-ktQ?label=YouTube%20Subscribers&style=social) <img src="https://komarev.com/ghpvc/?username=seema1711" alt="seema1711"/> </p> 
 
 ## I'm an Application Developer, Mentor, Open Sourcerer, Content Creator
