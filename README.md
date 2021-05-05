@@ -1,16 +1,10 @@
 ### Hi there, I'm Seema Saharan - aka [Bash Woman](https://youtube.com/BashWoman) 👋
 
-![YouTube banner](https://github.com/seema1711/seema1711/blob/master/YouTube%20header.png)
+![YouTube banner](https://github.com/seema1711/seema1711/blob/master/YouTube%20header.png) 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SeemaSaharan5?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fseema1711&screen_name=SeemaSaharan5)
+![twitter-follower](https://img.shields.io/twitter/follow/SeemaSaharan5?style=social) ![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCC99DrwSR_utFaF1qie-ktQ?label=YouTube%20Subscribers&style=social) <img src="https://komarev.com/ghpvc/?username=seema1711" alt="seema1711"/> </p> 
 
-<a href="http://youtube.com/BashWoman?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/AI0gEvgPtAc?label=YouTube&logo=YouTube&style=for-the-badge">
-  </a>
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=seema1711" alt="seema1711"/> </p> 
-
-## I'm a Student, Mentor, Open Source Contributor, and Teacher!
+## I'm an Application Developer, Mentor, Open Sourcerer, Content Creator
 
 - 🔭 I’m currently working on a [Open Source Series on YouTube](https://www.youtube.com/watch?v=wN9v0z3No24&list=PLhrUS-gSH3xBg9HPUU3z7WcKAgyYRog8H)!
 - 🌱 I’m currently learning everything 🤣
@@ -20,26 +14,24 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Bash Woman | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/BashWoman)
-[<img align="left" alt="Seema Saharan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/SeemaSaharan5)
-[<img align="left" alt="Seema Saharan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/seemasaharan)
-[<img align="left" alt="Bash Woman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/bashwoman)
+[YouTube](https://youtube.com/BashWoman) | [Twitter](https://twitter.com/SeemaSaharan5) | [LinkedIn](https://linkedin.com/in/seemasaharan)
 
 <br />
 
 ### Tech Stack:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Ansible" width="26px" src="https://github.com/seema1711/seema1711/raw/master/download%20(1).png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/seema1711/seema1711/raw/master/download.jpg" />
-<img align="left" alt="Docker" width="26px" src="https://github.com/seema1711/seema1711/raw/master/download.png" />
-<img align="left" alt="RedHat" width="26px" src="https://github.com/seema1711/seema1711/raw/master/redhat.png" />
+**DevOps Tools**
+- Git, GitHub, GitLab, Ansible, Docker, Kubernetes, Microsoft Azure
 
-<br />
+**Programming Language**
+- Python
+
+**Global Certifications**
+- Red Hat Certified System Administrator
+- Red Hat Certified Engineer
+- Red Hat Certified Specialist in Ansible Automation
+- Microsoft Certified: Azure Fundamentals
+
 <br />
 
 ---
@@ -91,5 +83,9 @@
 
 ---
 
-[![Seema's github stats](https://github-readme-stats.vercel.app/api?username=seema1711)](https://github.com/seema1711/github-readme-stats)
+### Like my work? 
+
+**You can support me here!**
+
+[![ko-fi-seemasaharan](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W04J3YT)
 
