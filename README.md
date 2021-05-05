@@ -23,7 +23,7 @@
 
 **👩‍💻Programming Language**
 - Python
-- 
+
 **💻Operating System**
 - Linux (RHEL, Fedora)
 
