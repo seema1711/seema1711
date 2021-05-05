@@ -23,6 +23,9 @@
 
 **👩‍💻Programming Language**
 - Python
+- 
+**💻Operating System**
+- Linux (RHEL, Fedora)
 
 **📄Global Certifications**
 - Red Hat Certified System Administrator
