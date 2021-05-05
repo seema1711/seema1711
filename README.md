@@ -16,8 +16,6 @@
 
 [YouTube](https://youtube.com/BashWoman) | [Twitter](https://twitter.com/SeemaSaharan5) | [LinkedIn](https://linkedin.com/in/seemasaharan)
 
-<br />
-
 ---
 
 ### ⚒Tech Stack:
@@ -33,8 +31,6 @@
 - Red Hat Certified Engineer
 - Red Hat Certified Specialist in Ansible Automation
 - Microsoft Certified: Azure Fundamentals
-
-<br />
 
 ---
 
