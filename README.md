@@ -12,21 +12,23 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen to music and watch movies/series.
 
-### Connect with me:
+### ✨Connect with me:
 
 [YouTube](https://youtube.com/BashWoman) | [Twitter](https://twitter.com/SeemaSaharan5) | [LinkedIn](https://linkedin.com/in/seemasaharan)
 
 <br />
 
-### Tech Stack:
+---
 
-**DevOps Tools**
+### ⚒Tech Stack:
+
+**♾DevOps Tools**
 - Git, GitHub, GitLab, Ansible, Docker, Kubernetes, Microsoft Azure
 
-**Programming Language**
+**👩‍💻Programming Language**
 - Python
 
-**Global Certifications**
+**📄Global Certifications**
 - Red Hat Certified System Administrator
 - Red Hat Certified Engineer
 - Red Hat Certified Specialist in Ansible Automation
@@ -79,7 +81,6 @@
 - [Make your terminal powerful, and beautiful! | Zsh | Powerlevel10k theme](https://dev.to/seema1711/make-your-terminal-powerful-and-beautiful-zsh-powerlevel10k-theme-30f3)
 - [Make your first Instagram filter | #christmashackathon](https://dev.to/seema1711/make-your-first-instagram-filter-christmashackathon-6f4)
 <!-- BLOG-POST-LIST:END -->
-
 
 ---
 
