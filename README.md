@@ -28,10 +28,11 @@
 - Linux (RHEL, Fedora)
 
 **📄Global Certifications**
-- Red Hat Certified System Administrator
-- Red Hat Certified Engineer
-- Red Hat Certified Specialist in Ansible Automation
+- Red Hat Certified System Administrator (Certification ID: 180-136-111)
+- Red Hat Certified Engineer (Certification ID: 180-136-111)
+- Red Hat Certified Specialist in Ansible Automation (Certification ID: 180-136-111)
 - Microsoft Certified: Azure Fundamentals
+- GitLab Certified Associate
 
 ---
 
