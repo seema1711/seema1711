@@ -28,11 +28,11 @@
 - Linux (RHEL, Fedora)
 
 **📄Global Certifications**
-- Red Hat Certified System Administrator (Certification ID: 180-136-111)
-- Red Hat Certified Engineer (Certification ID: 180-136-111)
-- Red Hat Certified Specialist in Ansible Automation (Certification ID: 180-136-111)
-- Microsoft Certified: Azure Fundamentals
-- GitLab Certified Associate
+- [Red Hat Certified System Administrator](https://rhtapps.redhat.com/verify?certId=180-136-111)
+- [Red Hat Certified Engineer](https://rhtapps.redhat.com/verify?certId=180-136-111)
+- [Red Hat Certified Specialist in Ansible Automation](https://rhtapps.redhat.com/verify?certId=180-136-111)
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/c6330074-3315-4170-9ccb-8f8a725c9095/public_url)
+- [GitLab Certified Associate](https://badgr.com/public/assertions/Ibw3wCwfStW-VqvKmtDxNg)
 
 ---
 
