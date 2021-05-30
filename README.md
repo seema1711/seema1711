@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Inspirational journey to Red Hat with Aditya Soni, ATSE @RedHat](https://www.youtube.com/watch?v=noaUkN9wc18)
 - [Don't watch this video](https://www.youtube.com/watch?v=bb7hxxQTTOo)
 - [Open any website or file in just seconds with Linux terminal](https://www.youtube.com/watch?v=kMdRZXXknCI)
 - [GNOME 40 - Is this the best version by GNOME?](https://www.youtube.com/watch?v=0Rkwrl8v3Dc)
 - [Junior Developers and Senior Developers](https://www.youtube.com/watch?v=NAXMbZPg_OM)
+- [Playing with Docker | Ashutosh Saxena - Cloud Engineer](https://www.youtube.com/watch?v=IC3xTlfbdW4)
 <!-- YOUTUBE:END -->
 
 ---
