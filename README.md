@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Unboxing KubeCon 2021 Swags | Building Phippy](https://www.youtube.com/watch?v=W5CxGv2Fu1Y)
 - [My Study VLog | How I study? | Aesthetic (Kinda) ✨](https://www.youtube.com/watch?v=VlJGBDSlun0)
 - [How I cleared AZ900 Exam? | My Preparation Strategy and Free Resources used 🙌☁](https://www.youtube.com/watch?v=qewT7u3Eq7M)
 - [Inspirational journey to Red Hat with Aditya Soni, ATSE @RedHat](https://www.youtube.com/watch?v=noaUkN9wc18)
 - [Don't watch this video](https://www.youtube.com/watch?v=bb7hxxQTTOo)
-- [Open any website or file in just seconds with Linux terminal](https://www.youtube.com/watch?v=kMdRZXXknCI)
 <!-- YOUTUBE:END -->
 
 ---
