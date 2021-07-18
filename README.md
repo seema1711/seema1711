@@ -2,7 +2,7 @@
 
 ![twitter-follower](https://img.shields.io/twitter/follow/SeemaSaharan5?style=social) ![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCC99DrwSR_utFaF1qie-ktQ?label=YouTube%20Subscribers&style=social) <img src="https://komarev.com/ghpvc/?username=seema1711" alt="seema1711"/> </p> 
 
-## I'm an Application Developer, Mentor, Open Sourcerer, Content Creator
+## I'm an DevOps Admin, Mentor, Open Sourcerer, Content Creator
 
 - 🔭 I’m currently working on a [Open Source Series on YouTube](https://www.youtube.com/watch?v=wN9v0z3No24&list=PLhrUS-gSH3xBg9HPUU3z7WcKAgyYRog8H)!
 - 🌱 I’m currently learning everything 🤣
