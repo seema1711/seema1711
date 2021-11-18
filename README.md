@@ -48,6 +48,13 @@
 
 ---
 
+### 🗣 Conference Speaker
+
+- [GitHub Universe 2021](https://www.youtube.com/watch?v=xQfDj_TDms8)
+- [GitLab Commit 2021](https://www.youtube.com/watch?v=b1QFzTv_PoE)
+
+---
+
 ### 🗣 Latest Talks
 
 - [First talk of 2021: Invited by GirlScript Jalandhar](https://twitter.com/GirlScriptJal/status/1343471030413656064?s=20)
