@@ -7,12 +7,14 @@
 - 🔭 I’m currently working on a [Open Source Series on YouTube](https://www.youtube.com/watch?v=wN9v0z3No24&list=PLhrUS-gSH3xBg9HPUU3z7WcKAgyYRog8H)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen to music and watch movies/series.
+
+### See where I'm speaking next!
+[Seema Saharan - Sessionize](https://sessionize.com/seemasaharan)
 
 ### ✨Connect with me:
 
-[YouTube](https://youtube.com/SeemaSaharan) | [Twitter](https://twitter.com/SeemaSaharan5) | [LinkedIn](https://linkedin.com/in/seemasaharan)
+[Topmate](https://topmate.io/seemasaharan) | [YouTube](https://youtube.com/SeemaSaharan) | [Twitter](https://twitter.com/SeemaSaharan5) | [LinkedIn](https://linkedin.com/in/seemasaharan)
 
 ---
 
@@ -34,6 +36,7 @@
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/c6330074-3315-4170-9ccb-8f8a725c9095/public_url)
 - [GitLab Certified Associate](https://badgr.com/public/assertions/Ibw3wCwfStW-VqvKmtDxNg)
 - [Certified Kubernetes Administrator](https://www.credly.com/badges/0b3b99a9-9300-44f7-be0c-8959779a8fc9)
+- [Certified Kubernetes Application Developer](https://www.credly.com/badges/d5f9fca6-dfe4-4b3f-b415-3ed66b8cb818/public_url)
 
 ---
 
