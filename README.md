@@ -2,14 +2,14 @@
 
 ![twitter-follower](https://img.shields.io/twitter/follow/SeemaSaharan5?style=social) ![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCC99DrwSR_utFaF1qie-ktQ?label=YouTube%20Subscribers&style=social) <img src="https://komarev.com/ghpvc/?username=seema1711" alt="seema1711"/> </p> 
 
-## I'm a Site Reliability Engineer, Mentor, Open Sourcerer, Content Creator
+## 👩🏻‍💻 I'm a Site Reliability Engineer, Mentor, Open Sourcerer, Content Creator
 
 - 🔭 I’m currently working on a [Open Source Series on YouTube](https://www.youtube.com/watch?v=wN9v0z3No24&list=PLhrUS-gSH3xBg9HPUU3z7WcKAgyYRog8H)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to listen to music and watch movies/series.
 
-### See where I'm speaking next!
+### 🗣️ See where I'm speaking next!
 [Seema Saharan - Sessionize](https://sessionize.com/seemasaharan)
 
 ### ✨Connect with me:
