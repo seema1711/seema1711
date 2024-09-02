@@ -14,7 +14,7 @@
 
 ### ✨Connect with me:
 
-[Topmate](https://topmate.io/seemasaharan) | [YouTube](https://youtube.com/SeemaSaharan) | [Twitter](https://twitter.com/SeemaSaharan5) | [LinkedIn](https://linkedin.com/in/seemasaharan)
+[Topmate](https://topmate.io/seemasaharan) | [YouTube](https://youtube.com/SeemaSaharan) | [Twitter](https://twitter.com/SeemaSaharan5) | [LinkedIn](https://linkedin.com/in/seemasaharan) | [🤗](https://huggingface.co/seemasaharann)
 
 ---
 
